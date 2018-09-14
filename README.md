@@ -24,4 +24,5 @@ Resources
 ---
 - [Repo on Github](https://github.com/adrw/https-redirect-javascript-with-meta-fallback)
 - [adrw/andrewparadi.com](https://github.com/adrw/andrewparadi.com) Redirects using this framework for `https://www.andrewparadi.com` -> `https://andrew.fm`
+- [adrw/high-resolution-compressed-images](https://github.com/adrw/high-resolution-compressed-images) 4k <50kb images used as backgrounds on websites
 - [Trianglify](https://github.com/qrohlf/trianglify) by [@qrholf](http://qrohlf.com/) background art before [ImageAlpha](https://pngmini.com/) PNG compression
