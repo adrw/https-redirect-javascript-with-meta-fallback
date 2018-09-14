@@ -12,6 +12,7 @@ Thus this repo:
 - A [guide](#guide) for how to use Github Pages as that terminating server
 - Simple, styled, HTML [templates](./src) that you can use for your own redirection repo
 - An [example repo](https://github.com/adrw/andrewparadi.com) using this framework for HTTPS redirects
+- A [live demo](https://www.andrewparadi.com/#noredirect) of the redirect page
 
 ![Styled HTTPS Redirect for andrewparadi.com](/redirect.png)
 
