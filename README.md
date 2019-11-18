@@ -20,6 +20,7 @@ Guide
 ---
 1. Hit the Use Template button to create a new repo using this repo as template
 1. Move files from `src/` into the top level directory
+1. Copy `404.html` to `index.html`
 1. grep throughout `404.html` for `andrewparadi.com` (old site) and `andrew.fm` (new site) to replace with your redirect source and target values
 1. Update `CNAME` file with your source website that you want to redirect from
 1. Go to repo settings
